@@ -1,0 +1,66 @@
+﻿@using ManagementSystem.Web.ViewModels
+@model TaskViewModel
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+@using (Html.BeginForm("Edit", "Tasks", FormMethod.Post, new { @class = "form-horizontal", role = "form", enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+    @Html.HiddenFor(pg => pg.CreatedOnDate)
+    
+    <h4>Edit task</h4>
+    <hr />
+    @Html.ValidationSummary("", new { @class = "text-danger" })
+    <div class="form-group">
+        @Html.LabelFor(t => t.RequiredByDate, "Required By Date", new { @class = "col-sm-2 control-label" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(t => t.RequiredByDate, new { @class = "form-control form-control-sm datetimepicker" })
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(t => t.NextActionDate, "Next Action Date", new { @class = "col-sm-2 control-label" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(t => t.NextActionDate, new { @class = "form-control form-control-sm datetimepicker" })
+            <em>(optional)</em>
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(t => t.Description, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.TextAreaFor(t => t.Description, new { @class = "form-control form-control-sm", @rows = "5" })
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(t => t.Status, new { @class = "col-sm-2 control-label" })
+        <div class="col-sm-10">
+            @Html.EnumDropDownListFor(t => t.Status, new { @class = "form-control form-control-sm" })
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(t => t.Type, new { @class = "col-sm-2 control-label" })
+        <div class="col-sm-10">
+            @Html.EnumDropDownListFor(t => t.Type, new { @class = "form-control form-control-sm" })
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(t => t.AssignedToUsers, "Assign task to users", new { @class = "col-sm-2 control-label" })
+        <div class="col-sm-10">
+            @Html.ListBoxFor(t => t.AssignedToUsers, new SelectList(Model.AssignedToUsers,"UserName"), new { @class = "form-control form-control-sm", @readonly = true })
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" class="btn btn-info" value="Save changes" />
+            <a href="javascript:void(0);" onclick="history.go(-1);" class="btn btn-primary">Cancel</a>
+        </div>
+    </div>
+}
+
+@section Scripts{
+    @Scripts.Render("~/bundles/jqueryval")
+}
+
+
+

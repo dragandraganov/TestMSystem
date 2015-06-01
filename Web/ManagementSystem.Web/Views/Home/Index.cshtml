@@ -1,0 +1,28 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h2 class="text-center">Simple Management System</h2>
+    <br />
+    @if (User.Identity.IsAuthenticated)
+    {
+        <p class="text-center">
+            Click on
+            @if (User.IsInRole(ManagementSystem.Common.GlobalConstants.ManagerRole))
+            {
+                <span><a href="\Tasks\Index">All Tasks</a> to see all tasks</span>
+            }
+            else
+            {
+                <span><a href="\Tasks\Index">My Tasks</a> to see your tasks</span>
+            }
+        </p>
+    }
+
+    else
+    {
+        <p class="text-center"><a href="\Account\Login">Log in</a> to see your tasks</p>
+    }
+
+</div>

@@ -1,0 +1,162 @@
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\ManagementSystem.Web.dll.config
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\ManagementSystem.Web.dll
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\ManagementSystem.Web.pdb
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\Antlr3.Runtime.dll
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\EntityFramework.dll
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\EntityFramework.SqlServer.dll
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\Microsoft.Owin.dll
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\Microsoft.Owin.Security.dll
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\Microsoft.Owin.Security.Google.dll
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\Newtonsoft.Json.dll
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\Owin.dll
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\System.Web.Helpers.dll
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\System.Web.Mvc.dll
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\System.Web.Optimization.dll
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\System.Web.Razor.dll
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\System.Web.WebPages.Deployment.dll
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\System.Web.WebPages.dll
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\System.Web.WebPages.Razor.dll
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\WebGrease.dll
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\System.Web.Helpers.xml
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\System.Web.Mvc.xml
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\System.Web.Optimization.xml
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\System.Web.Razor.xml
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\System.Web.WebPages.xml
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\System.Web.WebPages.Deployment.xml
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\System.Web.WebPages.Razor.xml
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\Antlr3.Runtime.pdb
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\Newtonsoft.Json.xml
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\EntityFramework.xml
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\EntityFramework.SqlServer.xml
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\Microsoft.Owin.xml
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\Microsoft.Owin.Security.xml
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\Microsoft.Owin.Security.Google.xml
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\obj\Debug\ManagementSystem.Web.csprojResolveAssemblyReference.cache
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\obj\Debug\ManagementSystem.Web.dll
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\obj\Debug\ManagementSystem.Web.pdb
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\ManagementSystem.Data.dll
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\ManagementSystem.Data.Models.dll
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\ManagementSystem.Data.Common.dll
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\ManagementSystem.Data.Models.pdb
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\ManagementSystem.Data.pdb
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\ManagementSystem.Data.Common.pdb
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\AutoMapper.Net4.dll
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\AutoMapper.dll
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\ManagementSystem.Common.dll
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\ManagementSystem.Web.Infrastructure.dll
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\Ninject.dll
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\Ninject.Web.Common.dll
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\Ninject.Web.Mvc.dll
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\WebActivatorEx.dll
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\ManagementSystem.Common.pdb
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\ManagementSystem.Web.Infrastructure.pdb
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\AutoMapper.pdb
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\AutoMapper.xml
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\AutoMapper.Net4.pdb
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\Ninject.xml
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\Ninject.Web.Common.xml
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\Ninject.Web.Mvc.xml
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\HtmlSanitizer.dll
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\CsQuery.dll
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\HtmlSanitizer.xml
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web\bin\CsQuery.xml
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\AutoMapper.Net4.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\ManagementSystem.Web.dll.config
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\ManagementSystem.Web.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\ManagementSystem.Web.pdb
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\Antlr3.Runtime.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\AutoMapper.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\EntityFramework.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\EntityFramework.SqlServer.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\ManagementSystem.Common.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\ManagementSystem.Data.Common.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\ManagementSystem.Data.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\ManagementSystem.Data.Models.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\ManagementSystem.Web.Infrastructure.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\Microsoft.Owin.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\Microsoft.Owin.Security.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\Microsoft.Owin.Security.Google.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\Newtonsoft.Json.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\Ninject.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\Ninject.Web.Common.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\Ninject.Web.Mvc.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\Owin.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\System.Web.Helpers.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\System.Web.Mvc.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\System.Web.Optimization.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\System.Web.Razor.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\System.Web.WebPages.Deployment.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\System.Web.WebPages.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\System.Web.WebPages.Razor.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\WebActivatorEx.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\WebGrease.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\HtmlSanitizer.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\CsQuery.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\ManagementSystem.Data.Common.pdb
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\ManagementSystem.Data.Models.pdb
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\ManagementSystem.Data.pdb
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\ManagementSystem.Common.pdb
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\ManagementSystem.Web.Infrastructure.pdb
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\AutoMapper.pdb
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\AutoMapper.xml
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\AutoMapper.Net4.pdb
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\Ninject.xml
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\Ninject.Web.Common.xml
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\Ninject.Web.Mvc.xml
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\System.Web.Helpers.xml
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\System.Web.Mvc.xml
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\System.Web.Optimization.xml
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\System.Web.Razor.xml
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\System.Web.WebPages.xml
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\System.Web.WebPages.Deployment.xml
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\System.Web.WebPages.Razor.xml
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\Antlr3.Runtime.pdb
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\Newtonsoft.Json.xml
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\EntityFramework.xml
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\EntityFramework.SqlServer.xml
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\Microsoft.Owin.xml
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\Microsoft.Owin.Security.xml
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\Microsoft.Owin.Security.Google.xml
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\HtmlSanitizer.xml
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\bin\CsQuery.xml
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\obj\Debug\ManagementSystem.Web.csprojResolveAssemblyReference.cache
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\obj\Debug\ManagementSystem.Web.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web\obj\Debug\ManagementSystem.Web.pdb

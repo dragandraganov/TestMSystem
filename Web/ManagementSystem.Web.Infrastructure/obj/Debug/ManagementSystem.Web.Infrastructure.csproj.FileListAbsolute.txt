@@ -1,0 +1,67 @@
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\AutoMapper.Net4.dll
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\ManagementSystem.Web.Infrastructure.dll
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\ManagementSystem.Web.Infrastructure.pdb
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\AutoMapper.dll
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\AutoMapper.pdb
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\AutoMapper.xml
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\AutoMapper.Net4.pdb
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web.Infrastructure\obj\Debug\ManagementSystem.Web.Infrastructure.dll
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web.Infrastructure\obj\Debug\ManagementSystem.Web.Infrastructure.pdb
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\CsQuery.dll
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\HtmlSanitizer.dll
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\System.Web.Mvc.dll
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\CsQuery.xml
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\HtmlSanitizer.xml
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\System.Web.Razor.dll
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\System.Web.WebPages.dll
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\System.Web.Razor.xml
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\System.Web.WebPages.xml
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\System.Web.Mvc.xml
+D:\Projects\TestProjects\ManagementSystem\Web\ManagementSystem.Web.Infrastructure\obj\Debug\ManagementSystem.Web.Infrastructure.csprojResolveAssemblyReference.cache
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\AutoMapper.Net4.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\ManagementSystem.Web.Infrastructure.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\ManagementSystem.Web.Infrastructure.pdb
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\AutoMapper.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\CsQuery.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\HtmlSanitizer.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\System.Web.Mvc.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\System.Web.Razor.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\System.Web.WebPages.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\AutoMapper.pdb
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\AutoMapper.xml
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\AutoMapper.Net4.pdb
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\CsQuery.xml
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\HtmlSanitizer.xml
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\System.Web.Mvc.xml
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\System.Web.Razor.xml
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\System.Web.WebPages.xml
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web.Infrastructure\obj\Debug\ManagementSystem.Web.Infrastructure.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web.Infrastructure\obj\Debug\ManagementSystem.Web.Infrastructure.pdb
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\System.Web.Helpers.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\System.Web.Helpers.xml
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web.Infrastructure\obj\Debug\ManagementSystem.Web.Infrastructure.csprojResolveAssemblyReference.cache
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\ManagementSystem.Data.Common.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\ManagementSystem.Data.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\EntityFramework.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\ManagementSystem.Data.Models.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\ManagementSystem.Data.Common.pdb
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\ManagementSystem.Data.pdb
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\EntityFramework.xml
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\ManagementSystem.Data.Models.pdb
+D:\Projects\TestProjects\Test - ManagementSystem\Web\ManagementSystem.Web.Infrastructure\bin\Debug\Microsoft.AspNet.Identity.Core.xml

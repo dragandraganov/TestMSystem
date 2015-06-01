@@ -1,0 +1,26 @@
+D:\Projects\TestProjects\ManagementSystem\Data\ManagementSystem.Data.Models\bin\Debug\ManagementSystem.Data.Models.dll
+D:\Projects\TestProjects\ManagementSystem\Data\ManagementSystem.Data.Models\bin\Debug\ManagementSystem.Data.Models.pdb
+D:\Projects\TestProjects\ManagementSystem\Data\ManagementSystem.Data.Models\obj\Debug\ManagementSystem.Data.Models.dll
+D:\Projects\TestProjects\ManagementSystem\Data\ManagementSystem.Data.Models\obj\Debug\ManagementSystem.Data.Models.pdb
+D:\Projects\TestProjects\ManagementSystem\Data\ManagementSystem.Data.Models\bin\Debug\ManagementSystem.Data.Models.dll.config
+D:\Projects\TestProjects\ManagementSystem\Data\ManagementSystem.Data.Models\bin\Debug\EntityFramework.dll
+D:\Projects\TestProjects\ManagementSystem\Data\ManagementSystem.Data.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\TestProjects\ManagementSystem\Data\ManagementSystem.Data.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Projects\TestProjects\ManagementSystem\Data\ManagementSystem.Data.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Projects\TestProjects\ManagementSystem\Data\ManagementSystem.Data.Models\bin\Debug\EntityFramework.xml
+D:\Projects\TestProjects\ManagementSystem\Data\ManagementSystem.Data.Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\TestProjects\ManagementSystem\Data\ManagementSystem.Data.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Projects\TestProjects\ManagementSystem\Data\ManagementSystem.Data.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Projects\TestProjects\Test - ManagementSystem\Data\ManagementSystem.Data.Models\bin\Debug\ManagementSystem.Data.Models.dll.config
+D:\Projects\TestProjects\Test - ManagementSystem\Data\ManagementSystem.Data.Models\bin\Debug\ManagementSystem.Data.Models.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Data\ManagementSystem.Data.Models\bin\Debug\ManagementSystem.Data.Models.pdb
+D:\Projects\TestProjects\Test - ManagementSystem\Data\ManagementSystem.Data.Models\bin\Debug\EntityFramework.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Data\ManagementSystem.Data.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Data\ManagementSystem.Data.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Data\ManagementSystem.Data.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Data\ManagementSystem.Data.Models\bin\Debug\EntityFramework.xml
+D:\Projects\TestProjects\Test - ManagementSystem\Data\ManagementSystem.Data.Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\TestProjects\Test - ManagementSystem\Data\ManagementSystem.Data.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Projects\TestProjects\Test - ManagementSystem\Data\ManagementSystem.Data.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Projects\TestProjects\Test - ManagementSystem\Data\ManagementSystem.Data.Models\obj\Debug\ManagementSystem.Data.Models.dll
+D:\Projects\TestProjects\Test - ManagementSystem\Data\ManagementSystem.Data.Models\obj\Debug\ManagementSystem.Data.Models.pdb

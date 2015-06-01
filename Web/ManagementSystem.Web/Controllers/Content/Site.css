@@ -1,0 +1,103 @@
+﻿body {
+    padding-top: 70px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+/*input,
+select,
+textarea {
+    max-width: 280px;
+}*/
+
+.form-control-sm {
+    max-width: 280px;
+    margin-right:10px;
+    display:inline;
+}
+
+#tasks-wrapper{
+    width:70%;
+}
+
+.task-simple-wrapper .list-group-item:hover{
+    background-color:#dbdbdb;
+}
+
+.task-simple-wrapper a:hover{
+    text-decoration:none;
+}
+
+hr {
+    border-top: 1px solid #b0b0b0;
+    border-bottom: 1px solid #dcdcdc;
+    margin:10px 0;
+}
+
+.task-desc{
+    background-color:#dcdcdc;
+}
+
+p{
+    margin:0;
+    padding-left:10px;
+}
+
+.list-group-item{
+    padding:0;
+}
+
+.list-group-item>hr:first-of-type{
+    margin-top:0;
+}
+
+.pl10{
+    padding-left:10px;
+}
+
+.pb10{
+     padding-bottom:10px;
+}
+
+.panel-tasks {
+    border: 1px solid #DAE1E8;
+    box-shadow: -2px -2px 3px rgba(224,226,228,0.4);
+}
+
+.panel-heading-add{
+     background: #f4fff1;
+}
+
+.icon:hover{
+    text-decoration:none;
+}
+
+.no-border{
+    border:0;
+    background-color:transparent;
+}
+
+.inline-forms{
+    display:inline-block;
+}
+
+.inline-forms>button{
+    color:#428bca;
+}
+
+.pr0{
+    padding-right:0px;
+}

@@ -1,0 +1,12 @@
+D:\Projects\TestProjects\ManagementSystem\ManagementSystem.Common\bin\Debug\ManagementSystem.Common.dll
+D:\Projects\TestProjects\ManagementSystem\ManagementSystem.Common\bin\Debug\ManagementSystem.Common.pdb
+D:\Projects\TestProjects\ManagementSystem\ManagementSystem.Common\obj\Debug\ManagementSystem.Common.dll
+D:\Projects\TestProjects\ManagementSystem\ManagementSystem.Common\obj\Debug\ManagementSystem.Common.pdb
+D:\Projects\TestProjects\ManagementSystem\ManagementSystem.Common\bin\Debug\System.Web.Mvc.dll
+D:\Projects\TestProjects\ManagementSystem\ManagementSystem.Common\bin\Debug\System.Web.Mvc.xml
+D:\Projects\TestProjects\Test - ManagementSystem\ManagementSystem.Common\bin\Debug\ManagementSystem.Common.dll
+D:\Projects\TestProjects\Test - ManagementSystem\ManagementSystem.Common\bin\Debug\ManagementSystem.Common.pdb
+D:\Projects\TestProjects\Test - ManagementSystem\ManagementSystem.Common\bin\Debug\System.Web.Mvc.dll
+D:\Projects\TestProjects\Test - ManagementSystem\ManagementSystem.Common\bin\Debug\System.Web.Mvc.xml
+D:\Projects\TestProjects\Test - ManagementSystem\ManagementSystem.Common\obj\Debug\ManagementSystem.Common.dll
+D:\Projects\TestProjects\Test - ManagementSystem\ManagementSystem.Common\obj\Debug\ManagementSystem.Common.pdb

@@ -1,0 +1,20 @@
+﻿@using ManagementSystem.Web.ViewModels
+@using ManagementSystem.Data.Models
+@model TaskViewModel
+
+<li class="list-group-item task-in-list @(@Model.Type==TaskType.Common?string.Empty:Model.Type==TaskType.Important?"text-important":"text-emergency")" title="Double click to see task's details" id="task-@Model.Id">
+    <div class="row">
+        <div class="col-md-6">
+            @(@Model.Description.Length > 20 ? @Model.Description.Substring(0, 20) + "..." : @Model.Description)
+        </div>
+        <div class="col-md-2">
+            @Model.Type
+        </div>
+        <div class="col-md-2">
+            @Model.RequiredByDate.ToString("MM/dd/yyyy")
+        </div>
+        <div class="col-md-2">
+            @(@Model.NextActionDate == null ? "None" : @Model.NextActionDate.Value.ToString("MM/dd/yyyy"))
+        </div>
+    </div>
+</li>

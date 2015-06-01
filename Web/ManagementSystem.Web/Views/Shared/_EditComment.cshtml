@@ -1,0 +1,43 @@
+﻿@using ManagementSystem.Web.ViewModels
+@model CommentViewModel
+<div class="media overflow-visible" id="comment-@Model.Id">
+    <div class="col-md-10 col-md-offset-1">
+        @using (Ajax.BeginForm("Edit", "Comments",
+                    new { taskId = Model.TaskId },
+                    new AjaxOptions
+                    {
+                        UpdateTargetId = "comment-" + @Model.Id,
+                        InsertionMode = InsertionMode.ReplaceWith,
+                        //OnSuccess = "successEditComment",
+                    },
+                    new { @class = "form-horizontal", role = "form" }))
+        {
+            @Html.AntiForgeryToken()
+            @Html.ValidationSummary("", new { id = "edit-comment-error", @class = "text-danger" })
+            @Html.HiddenFor(c => c.AuthorName)
+            @Html.HiddenFor(c => c.DateAdded)
+            @Html.HiddenFor(c => c.Id)
+            <div class="row">
+                <div class="col-md-7">
+                    @Html.TextAreaFor(c => c.Content, new { @class = "form-control", id = "comment-content", @rows = 5 })
+                </div>
+                <div class="col-md-5">
+                    <div class="form-group">
+                        @Html.LabelFor(c => c.Type, new { @class = "col-sm-4 control-label" })
+                        <div class="col-sm-8">
+                            @Html.EnumDropDownListFor(c => c.Type, new { @class = "form-control form-control-sm" })
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-2 col-md-offset-9 pr0">
+                    <input type="submit" class="btn btn-xs btn-block btn-success mt5 mb5" value="Save changes" id="btn-edit-comment" />
+                </div>
+                <div class="col-md-1">
+                    <btn class="btn btn-xs btn-default edit-cancel">Cancel</btn>
+                </div>
+            </div>
+        }
+    </div>
+</div>

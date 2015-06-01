@@ -1,0 +1,93 @@
+﻿@using ManagementSystem.Web.ViewModels
+@model TaskViewModel
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h1>Task @Model.Id Details</h1>
+
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <strong class="panel-title">Description: </strong> @Model.Description
+    </div>
+    <div class="panel-body">
+        <p>
+            Status: @Model.Status
+        </p>
+        <hr />
+        <p>
+            Type: @Model.Type
+        </p>
+        <hr />
+        <p>
+            Created on: @Model.CreatedOnDate.ToString("MM/dd/yyyy")
+        </p>
+        <hr />
+        <p>
+            Required by: @Model.RequiredByDate.ToString("MM/dd/yyyy")
+        </p>
+        <hr />
+        <p>
+            Next action on: <span id="comment-next-action-date">@(@Model.NextActionDate == null ? "None" : @Model.NextActionDate.Value.ToString("MM/dd/yyyy"))</span>
+        </p>
+        <hr />
+        <div>
+            <p>Assigned to:</p>
+            @if (Model.AssignedToUsers.Count == 0)
+            {
+                <p>None</p>
+            }
+            else
+            {
+                foreach (var user in Model.AssignedToUsers)
+                {
+                    <p>
+                        @user
+                    </p>
+                }
+            }
+        </div>
+
+        <hr />
+        <div class="text-center">
+            @if (User.IsInRole(ManagementSystem.Common.GlobalConstants.ManagerRole))
+            {
+                <a href="\Tasks\Edit\@Model.Id" class="btn btn-sm btn-primary">Edit</a>
+                <a href="\Tasks\Delete\@Model.Id" class="btn btn-sm btn-danger">Delete</a>
+            }
+            <a href="\Tasks\Index" class="btn btn-sm btn-default"><small>Back to all tasks</small></a>
+        </div>
+    </div>
+</div>
+<br />
+<div class="panel panel-tasks p0">
+    @if (@Model.Comments.Count() == 0)
+    {
+        <div class="panel-heading panel-heading-add text-warning" id="comments-label">
+            There are no comments
+        </div>
+        <div class="panel panel-body panel-comments-content" id="panel-comments-content">
+            <div id="all-comments"></div>
+        </div>
+    }
+    else
+    {
+        <div class="panel-body panel-comments-content" id="panel-comments-content">
+            <div id="all-comments">
+                @foreach (var comment in @Model.Comments)
+                {
+                    @Html.Partial("_CommentPartialView", comment)
+                }
+            </div>
+        </div>
+    }
+</div>
+<br />
+@if ((User.Identity.IsAuthenticated && Model.AssignedToUsers.Contains(System.Web.HttpContext.Current.User.Identity.Name)) || User.IsInRole(ManagementSystem.Common.GlobalConstants.ManagerRole))
+{
+    @Html.Partial("~/Views/Shared/_AddComment.cshtml", new CommentViewModel(Model.Id))
+}
+
+
+
